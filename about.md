@@ -4,4 +4,6 @@ title: About
 ---
 # About page
 
-This page tells you a little bit about me.
+I'm Enrique, Strategic hands-on leader in scalable A.V. architectures specializing in productizing e2e platforms, 
+cognitive perception, vehicle behavior reasoning and safety a passionate developer and space enthusiast. I love building 
+algorithms and exploring new technologies.
